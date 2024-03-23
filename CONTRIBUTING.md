@@ -1,4 +1,3 @@
-
 # Contribution guidelines
 
 Before making a pull request, please make sure of the following:
